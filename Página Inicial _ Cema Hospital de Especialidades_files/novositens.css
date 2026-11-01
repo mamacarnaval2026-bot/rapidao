@@ -1,0 +1,393 @@
+.card-ooe,.card-ooe::before{background-size:cover;background-position:center center;background-repeat:no-repeat;z-index:1}.card-ooe .card-ooe-overlay,.card-ooe::before{position:absolute;top:0;left:0;height:100%;width:100%}.card-dica-text,.card-dica-title{line-height:1.3;margin-bottom:20px}.card-ooe,.card-ooe-content{position:relative;display:flex}#especialidades,.ind-cont-pa{background-color:#fff}#especialidades .titulo{color:#0b983a;font-weight:700;text-transform:uppercase}.card-ooe-link{text-decoration:none!important;display:block}.card-ooe{height:220px;border-radius:25px;overflow:hidden;align-items:flex-end;padding:30px;background-color:#eee;transition:transform .3s}.card-ooe::before{content:'';opacity:0;transform:translateY(10px) scale(1.55);transition:transform .5s cubic-bezier(.165, .84, .44, 1),opacity .3s}.card-ooe .card-ooe-overlay{background-color:rgba(255,255,255,.75);transition:opacity .2s;z-index:2}.card-dica:hover,.card-ooe-link:hover .card-ooe{transform:translateY(-5px)}.card-ooe-link:hover .card-ooe::before{opacity:1;transform:translateY(0) scale(1)}.card-ooe-link:hover .card-ooe .card-ooe-overlay{opacity:0}.card-ooe-content{z-index:3;width:100%;justify-content:space-between;align-items:center}.card-ooe .card-ooe-title{color:#0a8;font-weight:400;font-size:1.7rem;text-transform:uppercase;transition:color .3s}.card-ooe-link:hover .card-ooe .card-ooe-title{color:#fff}.card-ooe .card-ooe-arrow{width:38px;height:38px;background-color:#0a8;color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;transition:.3s}.card-ooe-link:hover .card-ooe .card-ooe-arrow{background-color:#fff;color:#0a8;transform:translateX(5px)}.bg-oftalmo{background-image:url('../img/index/especialidades/oftalmo_normal.jpg')}.bg-oftalmo::before{background-image:url('../img/index/especialidades/oftalmo_hover.jpg')}.bg-otorrino{background-image:url('../img/index/especialidades/otorrino_normal.jpg')}.bg-otorrino::before{background-image:url('../img/index/especialidades/otorrino_hover.jpg')}.bg-buco{background-image:url('../img/index/especialidades/buco_normal.jpg')}.bg-buco::before{background-image:url('../img/index/especialidades/buco_hover.jpg')}.bg-plastica{background-image:url('../img/index/especialidades/plastica_normal.jpg')}.bg-plastica::before{background-image:url('../img/index/especialidades/plastica_hover.jpg')}.bg-atm{background-image:url('../img/index/especialidades/atm_normal.jpg')}.bg-atm::before{background-image:url('../img/index/especialidades/atm_hover.jpg')}.bg-fono{background-image:url('../img/index/especialidades/fono_normal.jpg')}.bg-fono::before{background-image:url('../img/index/especialidades/fono_hover.jpg')}.bg-sono{background-image:url('../img/index/especialidades/sono_normal.jpg')}.bg-sono::before{background-image:url('../img/index/especialidades/sono_hover.jpg')}.bg-vascular{background-image:url('../img/index/especialidades/vascular_normal.jpg')}.bg-vascular::before{background-image:url('../img/index/especialidades/vascular_hover.jpg')}.ind-cont-ao{background-color:#fff;padding:20px 0}.btn-agendar-full{display:block;width:100%;background-color:#00a884;color:#fff!important;text-align:center;padding:20px 30px;font-size:1.5rem;font-weight:800;text-transform:uppercase;text-decoration:none!important;letter-spacing:1px;border-radius:100px;transition:.3s ease-in-out;box-shadow:0 4px 15px rgba(0,0,0,.1)}.btn-agendar-full:hover{background-color:#008f6f;transform:translateY(-3px);box-shadow:0 6px 20px rgba(0,0,0,.15)}@media (max-width:768px){.card-ooe{height:180px;padding:20px}.btn-agendar-full{font-size:1.1rem;padding:15px 20px;border-radius:50px}}#secao-dicas .titulo-dicas{font-size:2.2rem;color:#444;font-weight:400;text-transform:none}#secao-dicas .titulo-dicas strong,.btn-saiba-mais:hover{color:#008f6f}.slider-dicas .slick-track{display:flex!important;align-items:stretch}.slider-dicas .slick-slide{height:auto!important;display:flex!important}.item-dica{padding:15px;outline:0;height:100%}.card-dica{background:#fff;border-radius:35px;border:1px solid #e0e0e0;overflow:hidden;height:100%;display:flex;flex-direction:column;transition:transform .3s}.btn-ind-pa,.btn-saiba-mais{text-decoration:none!important;transition:.3s}.card-dica-img img{width:100%;height:250px;object-fit:cover;border-radius:35px}.card-dica-body{padding:26px;display:flex;flex-direction:column;flex-grow:1}.card-dica-title{color:#008f6f;font-weight:700;font-size:1.1rem}.card-dica-text{color:#777;font-size:.9rem}.card-dica-footer{margin-top:auto;display:flex;justify-content:flex-end}.btn-saiba-mais{color:#888;font-size:.85rem;font-weight:600;display:inline-flex;align-items:center}.seta-circulo{width:32px;height:32px;background-color:#008f6f;color:#fff;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;margin-left:12px}#secao-dicas{position:relative;padding:0 50px}.slick-next,.slick-prev{font-size:0;line-height:0;position:absolute;top:50%;display:block;width:40px;height:40px;padding:0;transform:translateY(-50%);cursor:pointer;border:none;outline:0;background:0 0;z-index:99}.slick-next:before,.slick-prev:before{content:'';display:block;width:25px;height:25px;border-left:4px solid #e0e0e0;border-bottom:4px solid #e0e0e0;transition:border-color .3s}.slick-prev{left:-10px}.slick-prev:before{transform:rotate(45deg)}.slick-next{right:-10px}.slick-next:before{transform:rotate(-135deg)}.slick-next:hover:before,.slick-prev:hover:before{border-color:#0b983a}.slick-next:after,.slick-prev:after{display:none}.img-pert{width:100%;max-width:380px;height:auto;border-radius:40px;object-fit:cover}.titulo-equipe{font-size:2.2rem;font-weight:500;color:#4a4a4a;line-height:1.2;text-align:center}.titulo-equipe strong{color:#00a884}.txt-subtitulo{font-size:1.05rem;color:#666;line-height:1.4;text-align:center}.container-botoes{max-width:360px;margin:0 auto}.btn-ind-pa{display:block;width:100%;padding:16px;font-size:1rem;font-weight:700;text-align:center;border-radius:50px;text-transform:none}.btn-trabalho-escuro{background-color:#064d2d;color:#fff!important}.btn-trabalho-escuro:hover{background-color:#064d2d;transform:translateY(-3px)}.btn-trabalho-claro{background-color:#00a884;color:#fff!important}.btn-trabalho-claro:hover{background-color:#008f6f;transform:translateY(-3px)}@media (max-width:767px){.titulo-equipe{font-size:2rem}.txt-subtitulo{font-size:1rem}.img-pert{max-width:320px}.ind-pa-txt-col{margin-top:30px}}@media (min-width:768px){.container-botoes{margin:0 auto}}
+
+/* novo prontoatendimento-24h */
+
+.cema-hero {
+    background-color: #f9f9f9;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    color: #000000;
+}
+
+.cema-hero strong, 
+.cema-hero .fw-bold, 
+.cema-hero .fw-black,
+.cema-hero h1 span {
+    color: #00a878 !important;
+    font-weight: 700;
+}
+
+.cema-hero .hero-description {
+    color: #555;
+}
+
+.cema-hero .live-badge {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    background-color: rgba(0, 168, 120, 0.1);
+    color: #00a878;
+    border: 1px solid rgba(0, 168, 120, 0.25);
+}
+
+
+.cema-hero .btn-cema-primary {
+    background-color: #00a878;
+    border: 1px solid #00a878;
+    color: #ffffff !important;
+    font-size: 0.9rem;
+    width: 260px;
+}
+
+
+.cema-hero .btn-cema-secondary {
+    background-color: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    color: #000000 !important;
+    font-size: 0.9rem;
+    width: 260px;
+}
+
+
+.cema-hero .hero-divider {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+
+.cema-hero .stat-label {
+    color: #444444;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+}
+
+@keyframes pulseRadar {
+    0% { transform: scale(0.95); opacity: 1; }
+    50% { transform: scale(1.8); opacity: 0; }
+    100% { transform: scale(1.8); opacity: 0; }
+}
+.pulse-dot-bg {
+    animation: pulseRadar 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* diferenciais */
+
+.cema-features {
+    background-color: #ffffff;
+}
+
+.cema-features .section-eyebrow {
+    color: #00a878;
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+.cema-features .features-title {
+    color: #00a878;
+}
+
+/* Estilização séria e corporativa para os Cards */
+.cema-features .diff-card {
+    border: 1px solid #e2e8f0 !important;
+    transition: all 0.2s ease-in-out;
+}
+
+/* Efeito hover discreto e sutil, sem sombras gigantes */
+.cema-features .diff-card:hover {
+    border-color: #cbd5e1 !important;
+    background-color: #f8fafc !important;
+    transform: translateX(4px);
+}
+
+.cema-features .card-title {
+    color: #005c3f;
+    letter-spacing: -0.01em;
+}
+
+
+@media (min-width: 576px) {
+    .cema-features .border-start-sm {
+        border-left: 2px solid #e2e8f0 !important;
+        padding-left: 1.5rem;
+    }
+}
+
+.cema-features .rounded-3 {
+    border-radius: 8px !important;
+}
+
+/* especialidades */
+.cema-specialties {
+    background-color: #f7f7f7;
+}
+
+.cema-specialties .section-eyebrow {
+    color: #00a878;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+.cema-specialties .specialties-title {
+    color: #00a878;
+}
+
+.cema-specialties .rounded-3 {
+    border-radius: 8px !important;
+}
+
+.cema-specialties .specialty-main-card {
+    border: 1px solid #e2e8f0 !important;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+
+.cema-specialties .specialty-main-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05) !important;
+}
+
+
+.cema-specialties .card-header-cema {
+    background-color: #005c3f;
+}
+
+.cema-specialties .conditions-label {
+    color: #475569;
+    font-size: 0.75rem;
+    letter-spacing: 0.06em;
+}
+
+.cema-specialties .green-list li {
+    font-size: 0.9rem;
+    color: #334155;
+    position: relative;
+    padding-left: 1.25rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+}
+
+.cema-specialties .green-list li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.55rem;
+    width: 6px;
+    height: 6px;
+    background-color: #00a878;
+    border-radius: 50%;
+}
+
+/* SECTION alertas */
+
+.cema-alerts {
+    background-color: #005c3f;
+}
+
+.cema-alerts .section-eyebrow {
+    color: #fff;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+.cema-alerts .alerts-lead {
+    color: #fff;
+}
+
+.cema-alerts .alerts-title {
+    color: #fff;
+    font-weight: bold;
+}
+
+
+.cema-alerts .alert-card {
+    border: 1px solid #fff !important;
+    background-color: #fff;
+}
+
+
+.cema-alerts .alert-indicator-bar {
+    width: 4px;
+    height: 24px;
+    background-color: #00a878;
+    border-radius: 2px;
+}
+
+.cema-alerts .card-title {
+    color: #00a878; 
+    font-size: 1.2rem;
+    text-decoration: underline;
+}
+
+
+.cema-alerts .alert-list li {
+    position: relative;
+    padding-left: 1rem;
+}
+
+.cema-alerts .alert-list li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.65rem;
+    width: 6px;
+    height: 1px;
+    background-color: #94a3b8;
+}
+
+.cema-alerts .alert-text {
+    color: #00a878;
+}
+
+.cema-alerts .alert-text b {
+    color: #00a878;
+}
+
+
+.cema-alerts .alert-tag {
+    color: red;
+    font-size: 0.85rem;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+}
+
+.cema-alerts .rounded-3 {
+    border-radius: 8px !important;
+}
+/* convenios */
+
+.cema-convenios {
+    background-color: #fff;
+    color: #000000;
+}
+
+.cema-convenios .section-eyebrow {
+    color: #00a878;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.5rem;
+}
+
+.cema-convenios .convenios-title {
+    color: #005c3f;
+    font-size: calc(1.5rem + .6vw);
+    line-height: 1.2;
+}
+
+.cema-convenios .convenios-lead {
+    color: #444444;
+}
+
+.cema-convenios .conv-pill {
+    background-color: #fff;
+    color: #005c3f;
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding: 14px 20px;
+    border-radius: 50px;
+    border: 1px solid rgba(0, 92, 63, 0.1);
+    transition: all 0.25s ease;
+}
+
+.cema-convenios .conv-pill:hover {
+    background-color: #00a878;
+    color: #fff;
+    border-color: #00a878;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(0, 168, 120, 0.15);
+}
+
+.cema-convenios .convenios-link {
+    color: #00a878;
+    border-bottom: 2px solid #00a878;
+    font-size: 0.9rem;
+    letter-spacing: 0;
+    transition: all 0.3s ease;
+}
+
+.cema-convenios .convenios-link svg {
+    transition: transform 0.3s ease;
+}
+
+.cema-convenios .convenios-link:hover {
+    color: #005c3f;
+    border-color: #005c3f;
+    letter-spacing: 0.04em;
+}
+
+.cema-convenios .convenios-link:hover svg {
+    transform: translateX(6px);
+}
+
+/* localização */
+
+.cema-location {
+    background-color: #f7f7f7; /* Fundo cinza suave solicitado */
+}
+
+.cema-location .section-eyebrow {
+    color: #00a878;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+.cema-location .location-title {
+    color: #00a878;
+    font-weight: bold;
+}
+
+/* Alinha as alturas das colunas no desktop */
+@media (min-width: 992px) {
+    .cema-location .match-height {
+        display: flex;
+        align-items: stretch;
+    }
+}
+
+/* Painel Informativo Verde Escuro */
+.cema-location .location-info-panel {
+    background-color: #005c3f !important; /* Verde escuro corporativo */
+}
+
+/* Container do ícone */
+.cema-location .icon-box-location {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.cema-location .info-label {
+    letter-spacing: 0.05em;
+}
+
+/* Botão de rota */
+.cema-location .btn-maps-custom {
+    color: #005c3f !important;
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+    border: none;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.cema-location .btn-maps-custom:hover {
+    background-color: #f1f5f9 !important;
+}
+
+/* Wrapper do Iframe do Mapa */
+.cema-location .map-container-wrap {
+    border: 1px solid #e2e8f0 !important;
+    background-color: #ffffff;
+}
+
+/* Padronização dos cantos para 8px */
+.cema-location .rounded-3 {
+    border-radius: 8px !important;
+}
+

@@ -1,0 +1,33 @@
+$(document).ready(function() {
+    // Inicializa o carrossel dos convênios
+    $(".carousel-parcerias").slick({
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1000,
+        arrows: false,
+        dots: false,
+        responsive: [
+            {
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 3
+                }
+            },
+            {
+                breakpoint: 575,
+                settings: {
+                    slidesToShow: 2
+                }
+            }
+        ]
+    });
+
+    // Força o carregamento das imagens com data-src (lazy load do tema)
+    $('.carousel-parcerias img.pr-load').each(function() {
+        var src = $(this).attr('data-src');
+        if (src) {
+            $(this).attr('src', src);
+        }
+    });
+});

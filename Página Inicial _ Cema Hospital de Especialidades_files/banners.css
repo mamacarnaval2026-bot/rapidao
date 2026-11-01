@@ -1,0 +1,1003 @@
+
+.section-banner {
+    font-family: 'Mukta Mahee', sans-serif;
+    font-weight: 600;
+}
+
+.section-banner .banner-title,
+.section-banner .banner-subtitle,
+.section-banner .btn-banner-saiba-mais,
+.section-banner .alert-item {
+    font-family: 'Mukta Mahee', sans-serif;
+    font-weight: 600;
+}
+
+.section-banner span, .section-banner strong {
+    font-family: 'Gelica', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+body.modal-open {
+    overflow: hidden !important;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item {
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item img.bg {
+    z-index: -1;
+    position: absolute;
+    top: 110px;
+    right: 0;
+    width: 100vw;
+    min-width: 101%;
+    min-height: 101%;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos,
+#carouselExampleControls .carousel-inner .carousel-item .item#estagio-oftalmologia-otorrinolaringologia,
+#carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021,
+#carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos,
+#carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema {
+    padding-top: 153px;
+}
+@media (max-width: 767px) {
+    #carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos,
+    #carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 {
+        padding-top: 161px;
+    }
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos img.bg,
+#carouselExampleControls .carousel-inner .carousel-item .item#estagio-oftalmologia-otorrinolaringologia img.bg,
+#carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 img.bg {
+    -o-object-fit: cover;
+    object-fit: cover;
+    max-width: 101%;
+    max-height: 101%;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos .box,
+#carouselExampleControls .carousel-inner .carousel-item .item#estagio-oftalmologia-otorrinolaringologia .box,
+#carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box,
+#carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box,
+#carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema .box,
+section.ind-cont-pa {
+    position: relative;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos .box a,
+#carouselExampleControls .carousel-inner .carousel-item .item#estagio-oftalmologia-otorrinolaringologia .box a,
+#carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box a {
+    background-color: rgba(8, 75, 44, 0.8);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos .box a:hover,
+#carouselExampleControls .carousel-inner .carousel-item .item#estagio-oftalmologia-otorrinolaringologia .box a:hover,
+#carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box a:hover,
+#carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box a:hover,
+#carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema .box a:hover,
+section.ind-cont-ooe .ind-ooe a:hover {
+    text-decoration: none;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos .box a .text,
+#carouselExampleControls .carousel-inner .carousel-item .item#estagio-oftalmologia-otorrinolaringologia .box a .text,
+#carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box a .text {
+    width: 230px;
+    padding: 16px;
+    color: #fff;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#agendamento a .text h2,
+#carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos .box a .text h2,
+#carouselExampleControls .carousel-inner .carousel-item .item#estagio-oftalmologia-otorrinolaringologia .box a .text h2,
+#carouselExampleControls .carousel-inner .carousel-item .item#ona a .text h2,
+#carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box a .text h2,
+#carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box a .text p:first-child,
+#carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box a .text p:nth-child(3),
+#carouselExampleControls
+    .carousel-inner
+    .carousel-item
+    .item#video-protocolos-de-seguranca-cema
+    .box
+    a
+    .text
+    p:first-child,
+#carouselExampleControls
+    .carousel-inner
+    .carousel-item
+    .item#video-protocolos-de-seguranca-cema
+    .box
+    a
+    .text
+    p:nth-child(3) {
+    font-size: 1.5em;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#agendamento a .text h2 span,
+#carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos .box a .text p,
+#carouselExampleControls .carousel-inner .carousel-item .item#estagio-oftalmologia-otorrinolaringologia .box a .text p,
+#carouselExampleControls .carousel-inner .carousel-item .item#ona a .text h2 span,
+#carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box a .text p,
+#carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box a .text p,
+#carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema .box a .text p {
+    line-height: 1.2;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box-1 a.link {
+    border: 1px solid #50a989;
+    font-size: 1.1em;
+    with: 300px;
+    position: relative;
+    color: #50a989;
+    border-radius: 4px;
+    transition: 1s;
+    padding: 0.5em 1.5em;
+    background-color: #fff;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box-1 a.link:hover {
+    color: #fff;
+    background-color: #50a989;
+    text-decoration: none !important;
+}
+@media (max-width: 767px) {
+    #carouselExampleControls .carousel-inner .carousel-item .item#estagio-oftalmologia-otorrinolaringologia,
+    #carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema {
+        padding-top: 161px;
+    }
+}
+@media (min-width: 576px) {
+    #carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos .box a .text,
+    #carouselExampleControls
+        .carousel-inner
+        .carousel-item
+        .item#estagio-oftalmologia-otorrinolaringologia
+        .box
+        a
+        .text,
+    #carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box a .text {
+        width: 300px;
+        padding: 32px;
+    }
+    #carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos .box a .text h2,
+    #carouselExampleControls
+        .carousel-inner
+        .carousel-item
+        .item#estagio-oftalmologia-otorrinolaringologia
+        .box
+        a
+        .text
+        h2,
+    #carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box a .text h2 {
+        font-size: 2em;
+    }
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema img.bg {
+    top: 0;
+    left: 50%;
+    right: auto;
+    transform: translateX(-50%);
+    height: 100%;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box a,
+#carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema .box a {
+    background-color: hsla(0, 0%, 100%, 0.8);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 64px;
+}
+@media (max-width: 991px) {
+    #carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box a,
+    #carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema .box a {
+        padding: 64px;
+    }
+}
+@media (max-width: 767px) {
+    #carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema .box a {
+        padding: 32px;
+    }
+    #carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos {
+        padding-top: 161px;
+    }
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box a .text,
+#carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema .box a .text {
+    width: 300px;
+    color: #084b2c;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box a .text p:nth-child(4),
+#carouselExampleControls
+    .carousel-inner
+    .carousel-item
+    .item#video-protocolos-de-seguranca-cema
+    .box
+    a
+    .text
+    p:nth-child(4) {
+    font-size: 1.2em;
+}
+@media (max-width: 767px) {
+    #carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos img.bg {
+        right: -200px;
+    }
+    #carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box a {
+        padding: 32px;
+    }
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#agendamento a,
+#carouselExampleControls .carousel-inner .carousel-item .item#ona a {
+    width: 70%;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: 0.5s;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#agendamento a:hover,
+#carouselExampleControls .carousel-inner .carousel-item .item#ona a:hover {
+    text-decoration: none;
+    opacity: 0.7;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#agendamento a .image img {
+    width: 250px;
+}
+@media (max-width: 991px) {
+    #carouselExampleControls .carousel-inner .carousel-item .item#agendamento a .text h2,
+    #carouselExampleControls .carousel-inner .carousel-item .item#ona a .text h2 {
+        font-size: 1.2em;
+    }
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#agendamento a .text h2 span:first-child,
+#carouselExampleControls .carousel-inner .carousel-item .item#ona a .text h2 span:first-child {
+    border-bottom: 4px solid #fff;
+    font-size: 0.9em;
+    padding-bottom: 6px;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#agendamento a .text h2 span:nth-child(2) {
+    border: 1px solid #fff;
+    background-color: #00552c;
+    width: 350px;
+    max-width: 100%;
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#ona a .image img {
+    width: 200px;
+}
+@media (min-width: 992px) {
+    #carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema img.bg {
+        height: auto;
+    }
+    #carouselExampleControls .carousel-inner .carousel-item .item#agendamento a .image img {
+        width: 350px;
+    }
+    #carouselExampleControls .carousel-inner .carousel-item .item#ona a .image img {
+        width: 200px;
+    }
+}
+#carouselExampleControls .carousel-inner .carousel-item .item#ona a .text h2 span:nth-child(2) {
+    width: 350px;
+    max-width: 100%;
+}
+#carouselExampleControls .control-next-icon,
+#carouselExampleControls .control-prev-icon {
+    background-image: url(../img/index/left.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 0.7em;
+    width: 1.5em;
+    height: 1.5em;
+    background-color: rgba(0, 0, 0, 0.7);
+    top: 55%;
+    position: absolute;
+}
+@media (min-width: 768px) {
+    #carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos .box a .text,
+    #carouselExampleControls
+        .carousel-inner
+        .carousel-item
+        .item#estagio-oftalmologia-otorrinolaringologia
+        .box
+        a
+        .text,
+    #carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box a .text {
+        width: 450px;
+    }
+    #carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos .box a .text p,
+    #carouselExampleControls
+        .carousel-inner
+        .carousel-item
+        .item#estagio-oftalmologia-otorrinolaringologia
+        .box
+        a
+        .text
+        p,
+    #carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021 .box a .text p {
+        font-size: 1.5em;
+    }
+    #carouselExampleControls .control-next-icon,
+    #carouselExampleControls .control-prev-icon {
+        height: 2.5em;
+        width: 2.5em;
+    }
+}
+#carouselExampleControls .control-next-icon {
+    transform: rotate(180deg);
+}
+section.ind-cont-ooe {
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+section.ind-cont-ooe .ind-ooe {
+    padding: 0;
+}
+section.ind-cont-ooe .ind-ooe a {
+    position: relative;
+    height: 100%;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: -1px;
+    background: rgba(39, 157, 159, 0.98);
+    background: -webkit-gradient(
+        left top,
+        right bottom,
+        color-stop(0, rgba(39, 157, 159, 0.98)),
+        color-stop(11%, rgba(40, 161, 161, 0.98)),
+        color-stop(24%, rgba(39, 167, 167, 0.98)),
+        color-stop(46%, rgba(38, 175, 168, 0.99)),
+        color-stop(67%, rgba(36, 182, 167, 0.99)),
+        color-stop(81%, #22bcb2),
+        color-stop(100%, #23bfb5)
+    );
+    background: linear-gradient(
+        135deg,
+        rgba(39, 157, 159, 0.98),
+        rgba(40, 161, 161, 0.98) 11%,
+        rgba(39, 167, 167, 0.98) 24%,
+        rgba(38, 175, 168, 0.99) 46%,
+        rgba(36, 182, 167, 0.99) 67%,
+        #22bcb2 81%,
+        #23bfb5
+    );
+}
+@media (max-width: 991px) {
+    section.ind-cont-ooe .ind-ooe a {
+        font-size: 0.8em;
+    }
+}
+section.ind-cont-ooe .ind-ooe a .ind-ooe-img {
+    width: 7em;
+    height: 7em;
+    background-color: #fff;
+    padding: 0.5em;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section.ind-cont-ooe .ind-ooe a .ind-ooe-img img {
+    max-width: 5.5em;
+    max-height: 4.5em;
+}
+section.ind-cont-ooe .ind-ooe a h2,
+section.ind-cont-pa .ind-cont-pa-title h2 {
+    font-size: 1em;
+}
+section.ind-cont-ooe .ind-ooe a h2 .ind-ooe-title {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    text-align: center;
+    line-height: 1.2;
+    margin-top: 1em;
+}
+section.ind-cont-ooe .ind-ooe a .ind-ooe-lupa {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 1em;
+    background-color: hsla(0, 0%, 100%, 0.7);
+    transition: 1s;
+}
+section.ind-cont-ooe .ind-ooe a .ind-ooe-lupa:hover {
+    opacity: 1;
+}
+section.ind-cont-ooe .ind-ooe a .ind-ooe-lupa .ind-ooe-lupa-content {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #50a989;
+    padding: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section.ind-cont-ooe .ind-ooe a .ind-ooe-lupa .ind-ooe-lupa-content img {
+    max-height: 5em;
+    max-width: 5em;
+}
+.ind-cont-ao {
+    background-color: #50a989;
+}
+.ind-cont-ao .ind-cont-ao-align-txt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ind-cont-ao .ind-cont-ao-align-txt .ind-cont-ao-btn {
+    text-transform: uppercase;
+    background-color: #50a989;
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 0.2em 1.5em;
+    border-radius: 4px;
+    font-size: 1.5em;
+    transition: 0.5s linear !important;
+}
+.ind-cont-ao .ind-cont-ao-align-txt .ind-cont-ao-btn:hover {
+    color: #50a989;
+    background-color: #fff;
+    text-decoration: none;
+}
+#carousel-slick {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+}
+#carousel-slick .carousel-parcerias {
+    width: 100%;
+    position: relative;
+    padding: 2em 0;
+    background: #fff;
+}
+#carousel-slick .carousel-parcerias button {
+    display: none !important;
+}
+#carousel-slick .carousel-parcerias .slick-list .slick-track {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    cursor: -webkit-grab;
+    cursor: grab;
+}
+#carousel-slick .carousel-parcerias .slick-list .slick-track:active {
+    cursor: -webkit-grabbing;
+    cursor: grabbing;
+}
+#carousel-slick .carousel-parcerias .slick-list .slick-track .slick-slide img {
+    max-width: 12em;
+    max-height: 2.5em;
+    margin: 1% auto;
+    filter: url(data:image/svg+xml;utf8,#grayscale);
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+    transition:
+        filter,
+        -webkit-filter 0.4s;
+    -moz-transition:
+        filter,
+        -webkit-filter 0.4s;
+    -o-transition:
+        filter,
+        -webkit-filter 0.4s;
+}
+@media (max-width: 575px) {
+    #carouselExampleControls .carousel-inner .carousel-item .item#cema-45-anos,
+    #carouselExampleControls .carousel-inner .carousel-item .item#estagio-oftalmologia-otorrinolaringologia,
+    #carouselExampleControls .carousel-inner .carousel-item .item#residencia-medica-2021,
+    #carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos,
+    #carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema {
+        padding-top: 126px;
+    }
+    #carouselExampleControls .carousel-inner .carousel-item .item img.bg {
+        width: auto !important;
+    }
+    #carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box a,
+    #carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema .box a {
+        padding: 16px;
+    }
+    #carouselExampleControls .carousel-inner .carousel-item .item#retomamos-nossos-atendimentos .box a .text,
+    #carouselExampleControls .carousel-inner .carousel-item .item#video-protocolos-de-seguranca-cema .box a .text {
+        width: 200px;
+    }
+    #carouselExampleControls
+        .carousel-inner
+        .carousel-item
+        .item#retomamos-nossos-atendimentos
+        .box
+        a
+        .text
+        p:first-child,
+    #carouselExampleControls
+        .carousel-inner
+        .carousel-item
+        .item#retomamos-nossos-atendimentos
+        .box
+        a
+        .text
+        p:nth-child(3),
+    #carouselExampleControls
+        .carousel-inner
+        .carousel-item
+        .item#video-protocolos-de-seguranca-cema
+        .box
+        a
+        .text
+        p:first-child,
+    #carouselExampleControls
+        .carousel-inner
+        .carousel-item
+        .item#video-protocolos-de-seguranca-cema
+        .box
+        a
+        .text
+        p:nth-child(3) {
+        font-size: 1.2em;
+    }
+    #carouselExampleControls
+        .carousel-inner
+        .carousel-item
+        .item#retomamos-nossos-atendimentos
+        .box
+        a
+        .text
+        p:nth-child(4),
+    #carouselExampleControls
+        .carousel-inner
+        .carousel-item
+        .item#video-protocolos-de-seguranca-cema
+        .box
+        a
+        .text
+        p:nth-child(4) {
+        font-size: 1em;
+    }
+    #carouselExampleControls .carousel-inner .carousel-item .item#agendamento a .text h2,
+    #carouselExampleControls .carousel-inner .carousel-item .item#ona a .text h2 {
+        width: 100%;
+        font-size: 0.9em;
+    }
+    .ind-cont-ao .ind-cont-ao-align-txt {
+        font-size: 0.7em;
+    }
+    .ind-cont-ao .ind-cont-ao-align-txt .ind-cont-ao-btn {
+        padding: 0.5em;
+        text-align: center;
+    }
+    #carousel-slick .carousel-parcerias .slick-list .slick-track .slick-slide img {
+        max-width: 8em;
+        max-height: 2em;
+    }
+}
+#carousel-slick .carousel-parcerias .slick-list .slick-track .slick-slide img:hover {
+    -webkit-filter: grayscale(0);
+    transition:
+        filter,
+        -webkit-filter 0.4s;
+}
+section.ind-cont-pa .ind-cont-pa-title {
+    margin-top: 0.5em;
+    background-color: #50a989;
+    padding: 0.5em;
+    font-size: 1.5em;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+section.ind-cont-pa .ind-cont-pa-txt {
+    margin-top: 4em;
+    text-align: center;
+    line-height: 1.2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 4em;
+}
+section.ind-cont-pa .ind-cont-pa-txt p {
+    margin-bottom: 1.5em;
+    font-size: 1.5em;
+}
+section.ind-cont-pa .ind-cont-pa-txt a {
+    border: 1px solid #50a989;
+    width: 15em;
+    padding: 0.5em 0;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    color: #50a989;
+    font-weight: 600;
+    border-radius: 4px;
+    transition: 1s;
+    margin-bottom: 0.5em;
+}
+section.ind-cont-pa .ind-cont-pa-txt a:last-child {
+    margin-bottom: 0;
+}
+section.ind-cont-pa .ind-cont-pa-txt a:hover {
+    color: #fff;
+    background-color: #50a989;
+    text-decoration: none;
+}
+section.ind-cont-pa .ind-cont-pa-img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+section.ind-cont-pa .ind-cont-pa-img img {
+    max-height: 31em;
+}
+@media (max-width: 767px) {
+    section.ind-cont-ooe .ind-ooe a {
+        font-size: 1em;
+    }
+    .ind-cont-ao .ind-contet-ao-img img {
+        max-height: 7em;
+        display: block;
+        margin: 0 auto;
+    }
+    .ind-cont-ao .ind-cont-ao-align-txt {
+        font-size: 0.7em;
+    }
+    section.ind-cont-pa .ind-cont-pa-txt p {
+        font-size: 1.3em;
+    }
+    section.ind-cont-pa .ind-cont-pa-img img {
+        display: none;
+    }
+}
+.fade-b {
+    visibility: hidden;
+}
+.fade-b-actv {
+    -webkit-animation: 1s fade-bottom-active;
+    animation: 1s fade-bottom-active;
+    visibility: visible;
+}
+@-webkit-keyframes fade-bottom-active {
+    0% {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+@keyframes fade-bottom-active {
+    0% {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+.section-banner {
+    padding: 40px 0;
+    background-color: #fff;
+    overflow: hidden;
+}
+.relative-container {
+    position: relative;
+    height: 450px;
+    display: flex;
+    align-items: center;
+}
+.banner-content {
+    color: #fff;
+    z-index: 2;
+    text-align: left;
+    padding-left: 25px;
+}
+.banner-personagem-vazado {
+    position: absolute;
+    right: 110px;
+    bottom: 40px !important;
+    z-index: 10;
+    width: 320px;
+    pointer-events: none;
+    transition: 0.3s;
+}
+.banner-personagem-vazado img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.banner-personagem-vazado.img-larga {
+    width: 450px;
+    right: 50px;
+    top: auto;
+    bottom: 40px !important;
+}
+
+.btn-banner-saiba-mais {
+    background-color: #fff;
+    border-radius: 50px;
+}
+.btn-banner-saiba-mais:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+.carousel-control-next,
+.carousel-control-prev {
+    width: 9%;
+    filter: invert(1);
+}
+.banner-box-verde {
+     background-color: #006438;
+    width: 100%;
+    height: 370px;
+    border-radius: 50px;
+    padding: 0 65px;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.alert-item,
+.banner-box-verde .row {
+    width: 100% !important;
+}
+.bg01,
+.bg04 {
+    background-image: url("../img/banner/home/bg01.webp");
+}
+.bg02 {
+    background-image: url("../img/banner/home/bg02.webp");
+}
+.bg03 {
+    background-image: url("../img/banner/home/bg03.webp");
+}
+.bg05 {
+    background-image: url("../img/banner/home/bg05.webp");
+}
+.banner-alerts {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 10px;
+    width: 100%;
+}
+.alert-item {
+    color: #fff;
+    padding: 8px 20px !important;
+    width: 540px !important;
+    max-width: 100% !important;
+    margin: 5px 0 !important;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: #00361f;
+    border-radius: 50px;
+    font-size: 1.1rem;
+    white-space: nowrap !important;
+    box-sizing: border-box !important;
+}
+.icon-x {
+    color: #59e966;
+    font-weight: 700;
+    margin-right: 12px;
+    font-size: 1.2rem;
+    flex-shrink: 0;
+}
+
+.banner-subtitle {
+    color: #fff;
+    font-size: 1.2rem;
+    line-height: 1.4;
+}
+
+@media (max-width: 991px) {
+    section.ind-cont-pa .ind-cont-pa-img img {
+        max-height: 14em;
+    }
+    .banner-alerts {
+        align-items: center !important;
+        margin-top: 20px;
+    }
+    .alert-footer {
+        text-align: center;
+    }
+    .banner-box-verde.bg-04 {
+        height: auto !important;
+        padding: 40px 20px !important;
+    }
+}
+.banner-title {
+    font-size: 2.7rem;
+    line-height: 1.1;
+    color: #fff;
+    font-weight: 300;
+}
+.banner-title strong {
+    font-weight: 800;
+    display: inline-block;
+}
+.btn-banner-saiba-mais {
+    font-size: 1.2rem;
+    display: inline-block;
+    color: #084b2c !important;
+    padding: 12px 45px;
+    font-weight: 700;
+    text-decoration: none !important;
+    transition: 0.3s;
+}
+
+@media (max-width: 1025px) {
+    .banner-title {
+    font-size: 2rem;
+}
+.btn-banner-saiba-mais {
+    font-size: 1rem;
+}
+.alert-item {
+    font-size: .95rem;
+}
+}
+@media (max-width: 769px) {
+
+    .banner-box-verde .row {
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+        width: 100% !important;
+        height: auto !important;
+        margin: auto 0 !important;
+        padding: 10px 0 !important;
+    }
+
+    .banner-box-verde .row > [class*="col-"] {
+        width: 100% !important;
+        max-width: 100% !important;
+        flex: 0 0 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        text-align: center !important;
+    }
+
+    .banner-content {
+        padding: 0 !important;
+        text-align: center !important;
+        margin-bottom: 20px !important;
+    }
+    .banner-box-verde {
+        border-radius: 40px;
+        padding: 30px 15px;
+        height: 100%;
+        min-height: auto;
+    }
+    .banner-personagem-vazado {
+        display: none !important;
+    }
+    .banner-title {
+        font-size: 1.6rem;
+        text-align: center;
+    }
+    .banner-subtitle {
+        margin-bottom: 0;
+    }
+
+   .banner-alerts {
+       display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+        width: 100% !important;
+        padding: 0 !important;
+        margin: 0 auto !important;
+    }
+
+
+    .alert-item {
+      width: 100% !important;
+        max-width: 100% !important;
+        white-space: normal !important;
+        text-align: center !important;
+        box-sizing: border-box !important;
+        margin: 5px 0 !important;
+    }
+}
+@media (max-width: 426px) {
+    /* 1. Define o padding padrão único do container para alinhar a margem esquerda de tudo */
+    .banner-box-verde {
+        padding: 25px 20px !important; /* Ajustado para dar respiro e manter a mesma linha lateral */
+    }
+
+    /* 2. Zera margens negativas da row do Bootstrap para não 'comer' o padding do pai */
+    .banner-box-verde .row {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        width: 100% !important;
+    }
+
+    /* 3. Garante que as colunas ocupem 100% sem paddings extras desalinhando o conteúdo */
+    .banner-box-verde .row > [class*="col-"] {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        text-align: left !important;
+    }
+
+    /* 4. Alinhamento de texto e resetting de recuos */
+    .banner-content {
+        padding: 0 !important;
+        text-align: left !important;
+        margin-bottom: 10px !important;
+    }
+
+    .banner-title {
+        text-align: left !important;
+        font-size: 1.8rem;
+    }
+
+    .banner-subtitle {
+        font-size: 0.99rem;
+        line-height: 1.2;
+        text-align: left !important;
+    }
+
+   
+    .btn-banner-saiba-mais {
+        padding: 8px 20px;
+        font-size: 0.99rem;
+        display: inline-block !important;
+        margin: 15px 0 0 0 !important; 
+        text-align: left !important;
+    }
+
+    
+    .banner-alerts {
+        gap: 8px;
+        align-items: flex-start !important;
+        width: 100% !important;
+        padding: 0 !important;
+        margin-top: 15px !important;
+    }
+
+    .alert-item {
+        padding: 8px 12px !important; 
+        font-size: 0.83rem;
+        width: 100% !important;
+        justify-content: flex-start !important; 
+        text-align: left !important;
+    }
+
+    .icon-x {
+        font-size: 0.9rem;
+        margin-right: 8px;
+    }
+
+    .section-banner {
+        padding: 20px 0;
+    }
+}
+
+@media (max-width: 321px) { 
+.banner-title {
+        font-size: 1.4rem;
+    }
+    .banner-subtitle {
+        font-size: 0.85rem;
+    }
+    .btn-banner-saiba-mais {
+        padding: 6px 15px;
+        font-size: 0.85rem;
+    }
+
+    .alert-item {
+        font-size: 0.70rem;
+        padding: 6px 10px !important;
+    }
+
+}

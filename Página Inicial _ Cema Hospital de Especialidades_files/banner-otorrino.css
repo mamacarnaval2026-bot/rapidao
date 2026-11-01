@@ -1,0 +1,30 @@
+.banner-bg-otorrino {
+  position: relative; /* importante */
+  border-radius: 20px;
+  background-image: url('/img/otorrino/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 370px;
+  margin-top: 50px;
+  overflow: hidden;
+}
+
+/* 👇 overlay real */
+.banner-bg-otorrino::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(1, 171, 135, 0.6); /* controla a opacidade aqui */
+  z-index: 1;
+}
+
+/* conteúdo fica acima do overlay */
+.banner-box-verde-otorrino {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
