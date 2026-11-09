@@ -3,121 +3,102 @@
 
 POSTS = [
 {
-"slug": "como-identificar-cupins", "data": "2026-11-09",
-"h1": "Como identificar cupins em casa: 7 sinais de alerta",
-"title": "Como Identificar Cupins em Casa: 7 Sinais | Elbatec",
-"desc": "Aprenda a identificar cupins de madeira seca e de solo: resíduos em pó, túneis de terra, aleluias e madeira oca. Veja o que fazer e quando chamar um técnico.",
-"lead": "Os cupins trabalham escondidos e, quando o estrago aparece, a colônia já pode ter meses. Saiba reconhecer os sinais logo no início.",
-"resumo": "Resíduos em pó, túneis de terra, revoadas de aleluias e madeira oca: aprenda a reconhecer os sinais de cupins logo no início.",
-"img": "blog-como-identificar-cupins.webp", "img_alt": "Detalhe de madeira com pequenos furos e resíduos granulados característicos de cupim",
-"servicos": ["descupinizacao", "dedetizacao"],
-"corpo": """<p>Cupins se alimentam de celulose — presente em madeira, papel, papelão e até em alguns tecidos — e vivem em colônias organizadas que podem passar anos sem ser notadas. No Brasil, os dois grupos que mais causam problemas em imóveis são o <strong>cupim de madeira seca</strong> e o <strong>cupim subterrâneo</strong>, também chamado de cupim de solo. Reconhecer qual deles está presente muda totalmente a forma de tratamento.</p>
-<h2>Cupim de madeira seca × cupim de solo</h2>
-<p>O cupim de madeira seca vive dentro da própria peça que está consumindo: uma porta, um rodapé, um móvel, uma viga. As colônias são menores e não precisam de contato com o solo. Já o cupim subterrâneo forma colônias numerosas no solo e chega até a madeira por meio de túneis de terra, que constrói para se proteger da luz e do ar seco. Ele pode atravessar fissuras no concreto, conduítes elétricos e juntas de pisos, alcançando andares altos de prédios.</p>
-<h2>Os 7 sinais mais comuns de cupins</h2>
-<h3>1. Montinhos de "pó" ou grãos perto da madeira</h3>
-<p>É o sinal clássico do cupim de madeira seca. Os resíduos parecem areia fina ou pó de café e se acumulam no chão, embaixo de móveis, portas e batentes. Olhando de perto, são pequenos grânulos com formato regular — são as fezes dos cupins, expelidas por furinhos na madeira.</p>
-<h3>2. Furos minúsculos na superfície</h3>
-<p>Acima dos montinhos, costuma haver orifícios de um ou dois milímetros. Às vezes eles ficam tampados e são difíceis de ver; passar a mão pela madeira ajuda a perceber irregularidades.</p>
-<h3>3. Túneis de terra em paredes e estruturas</h3>
-<p>Caminhos de terra marrom, finos como um lápis, subindo por paredes, rodapés, pilares, batentes ou por dentro de armários são típicos do cupim de solo. Se você quebrar um pedaço e encontrar insetos claros, a colônia está ativa.</p>
-<h3>4. Revoadas de aleluias</h3>
-<p>Em dias quentes e úmidos, normalmente no início da temporada de chuvas, os cupins alados (as "aleluias" ou "siriris") saem para formar novas colônias. Se a revoada acontece dentro de casa ou se você encontra muitas asas soltas perto de janelas e lâmpadas, há colônias maduras por perto.</p>
-<h3>5. Madeira oca ou que cede ao toque</h3>
-<p>Bata levemente com o cabo de uma chave de fenda em rodapés, batentes e degraus. Um som oco ou uma madeira que afunda com pouca pressão indicam que o interior foi consumido.</p>
-<h3>6. Portas e janelas emperrando</h3>
-<p>A umidade produzida pela atividade dos cupins e a deformação da madeira podem fazer portas e janelas emperrarem sem motivo aparente.</p>
-<h3>7. Piso de madeira estufado e pintura descascando</h3>
-<p>Tacos soltos, piso de madeira ondulado e bolhas na pintura de paredes e forros podem ser causados por galerias de cupins logo abaixo da superfície.</p>
-<h2>O que fazer quando encontrar sinais de cupins</h2>
+"slug": "como-escolher-o-tamanho-da-fantasia-infantil", "data": "2026-11-09",
+"h1": "Como escolher o tamanho da fantasia infantil",
+"title": "Como Escolher o Tamanho da Fantasia Infantil",
+"desc": "Aprenda a medir a criança e escolher o tamanho certo da fantasia infantil: altura, tórax, cintura e folga para crescer. Evite trocas com estas dicas práticas.",
+"lead": "Fantasia apertada incomoda, e fantasia muito larga atrapalha a brincadeira. Veja como acertar o tamanho na primeira compra.",
+"resumo": "Altura, tórax, cintura e folga: um guia prático para acertar o tamanho da fantasia infantil e evitar trocas.",
+"img": "blog-tamanho-fantasia-infantil.webp", "img_alt": "Fita métrica ao lado de fantasia infantil dobrada sobre a mesa",
+"categorias": ["fantasias-infantis", "fantasias-para-escolas-e-apresentacoes"],
+"corpo": """<p>Na hora de comprar uma fantasia para criança, a maioria das pessoas escolhe pela idade. O problema é que crianças da mesma idade podem ter alturas e medidas bem diferentes, e cada fabricante modela de um jeito. O resultado são trocas de última hora — justamente quando a festa está chegando. Com uma fita métrica e alguns minutos, dá para acertar.</p>
+<h2>1. Meça a altura</h2>
+<p>A altura é a medida mais importante para fantasias inteiras, como vestidos longos, macacões e capas. Peça para a criança ficar descalça, encostada na parede, e marque o topo da cabeça. Para vestidos e capas, meça também do ombro até onde a peça deve terminar.</p>
+<h2>2. Meça o tórax</h2>
+<p>Passe a fita por baixo dos braços, na parte mais larga do peito, sem apertar. Essa medida define se a parte de cima vai vestir bem e se a criança vai conseguir levantar os braços com conforto.</p>
+<h2>3. Meça a cintura</h2>
+<p>Passe a fita na altura do umbigo, também sem apertar. É fundamental para saias, calças e shorts. Peças com elástico têm uma margem maior; peças com zíper ou botão precisam de mais precisão.</p>
+<h2>4. Compare com a tabela do modelo</h2>
+<p>Peça a tabela de medidas do modelo escolhido e compare com as medidas da criança. Se ela estiver entre dois tamanhos, em geral é melhor escolher o maior, principalmente se a fantasia vai ser usada mais para a frente — crianças crescem rápido.</p>
+<h2>5. Considere a roupa de baixo e o clima</h2>
+<p>Em festas juninas e no inverno, muitas crianças usam a fantasia por cima de outra roupa ou com meia-calça. Já no Carnaval, o calor pede peças mais leves e soltas. Leve isso em conta na hora de escolher o tamanho.</p>
+<h2>6. Pense no movimento</h2>
+<p>Criança fantasiada corre, pula, senta no chão e dança. Verifique se a fantasia permite movimento e se o comprimento não arrasta no chão, o que pode causar tropeços.</p>
+<h2>Dicas para escolas e turmas</h2>
 <ul>
-<li><strong>Não varra nem descarte os resíduos imediatamente.</strong> Tire uma foto: ela ajuda o técnico a identificar o tipo de cupim.</li>
-<li><strong>Não quebre os túneis de terra</strong> nem aplique inseticida doméstico. Isso pode espalhar a colônia sem resolver o problema.</li>
-<li><strong>Afaste caixas de papelão, livros e madeira</strong> que estejam encostados na área afetada.</li>
-<li><strong>Verifique outros cômodos</strong>, especialmente armários embutidos, forros e telhado.</li>
-<li><strong>Peça uma vistoria profissional</strong> para confirmar a espécie e a extensão da infestação.</li>
+<li>Monte uma lista com nome, altura e tamanho de cada criança antes de fazer o pedido.</li>
+<li>Agrupe as quantidades por tamanho: isso agiliza o orçamento e a separação.</li>
+<li>Peça uma peça-piloto ou faça a prova em algumas crianças antes do pedido completo, quando possível.</li>
+<li>Considere uma pequena margem de peças extras para ajustes de última hora.</li>
 </ul>
-<h2>Como prevenir cupins</h2>
-<p>A prevenção passa por controlar a umidade (vazamentos e infiltrações atraem cupins), evitar o contato de madeira com o solo, não acumular entulho, restos de obra e madeira no quintal, inspecionar móveis usados antes de levá-los para casa e fazer vistorias periódicas, principalmente em imóveis com telhado de madeira ou móveis planejados. Antes de reformas, vale tratar preventivamente as áreas que receberão madeira nova.</p>
-<p>Na região de Cajamar, com muitas áreas verdes e construções novas, é comum encontrar cupins de solo vindos de terrenos vizinhos. Se você notou qualquer um dos sinais acima, conheça nosso serviço de <a href="@/servicos/descupinizacao.html">descupinização em Cajamar e região</a>: fazemos a vistoria, identificamos o tipo de cupim e indicamos o tratamento adequado.</p>""",
+<h2>E para lojistas?</h2>
+<p>Para revenda, a escolha da grade é tão importante quanto a escolha dos modelos. Tamanhos intermediários costumam ter mais saída, mas o comportamento muda conforme o público da sua loja. Acompanhe o que vende mais em cada temporada e ajuste a grade nos próximos pedidos.</p>
+<p>A Tango Fantasias produz <a href="@/fantasias/fantasias-infantis.html">fantasias infantis</a> e <a href="@/fantasias/fantasias-para-escolas-e-apresentacoes.html">figurinos para escolas</a> no Brás, em São Paulo. Fale com a gente pelo WhatsApp para consultar as medidas de cada modelo.</p>""",
 },
 {
-"slug": "escorpioes-como-prevenir-em-casa", "data": "2026-11-09",
-"h1": "Escorpiões: como prevenir em casa e proteger a família",
-"title": "Escorpiões: Como Prevenir em Casa | Elbatec",
-"desc": "Veja como prevenir escorpiões em casa: telas em ralos, vedação, quintal limpo e controle de baratas. Saiba também o que fazer em caso de picada. Leia o guia.",
-"lead": "O escorpião-amarelo se adaptou às cidades e aparece com frequência em casas e quintais. Veja medidas práticas para reduzir o risco.",
-"resumo": "Telas em ralos, vedação de frestas, quintal limpo e controle de baratas: medidas práticas para reduzir o risco de escorpiões.",
-"img": "blog-escorpioes-como-prevenir.webp", "img_alt": "Ralo de banheiro com tela de proteção instalada para evitar a entrada de escorpiões",
-"servicos": ["controle-de-escorpioes", "dedetizacao"],
-"corpo": """<p>Os acidentes com escorpiões são frequentes no Brasil, e o escorpião-amarelo (<em>Tityus serrulatus</em>) é o principal responsável nas áreas urbanas do Sudeste. Ele se reproduz sem precisar de macho (partenogênese), resiste a longos períodos sem comida e encontra abrigo fácil em redes de esgoto, caixas de passagem, entulho e frestas. Por isso, a melhor estratégia é tornar a casa menos atraente e mais difícil de ser invadida.</p>
-<h2>Por que os escorpiões aparecem em casa?</h2>
-<p>Escorpiões procuram três coisas: <strong>abrigo</strong> escuro e úmido, <strong>alimento</strong> (principalmente baratas, grilos e outros insetos) e <strong>acesso</strong>. Ralos sem proteção, frestas sob portas, tubulações e caixas de esgoto mal vedadas funcionam como portas de entrada. Obras, terrenos baldios e períodos de calor e chuva aumentam o movimento desses animais.</p>
-<h2>10 medidas para prevenir escorpiões</h2>
-<ol>
-<li><strong>Instale telas ou ralos com sistema abre-fecha</strong> em banheiros, cozinhas, áreas de serviço e quintais.</li>
-<li><strong>Vede soleiras de portas</strong> com rodinhos de borracha ou escovas e mantenha as portas fechadas à noite.</li>
-<li><strong>Feche frestas</strong> em rodapés, paredes, forros e ao redor de tubulações e conduítes.</li>
-<li><strong>Mantenha as caixas de inspeção, de gordura e de esgoto bem tampadas</strong> e vedadas.</li>
-<li><strong>Retire entulho, tijolos, telhas, lenha e materiais de construção</strong> acumulados no quintal.</li>
-<li><strong>Controle as baratas.</strong> Sem alimento, o ambiente fica menos atraente para os escorpiões.</li>
-<li><strong>Mantenha a grama aparada</strong> e afaste folhagens e trepadeiras das paredes da casa.</li>
-<li><strong>Acondicione o lixo</strong> em sacos bem fechados e em lixeiras tampadas, para não atrair insetos.</li>
-<li><strong>Afaste camas e berços das paredes</strong> e evite que lençóis e mosquiteiros encostem no chão.</li>
-<li><strong>Sacuda roupas, toalhas e calçados</strong> antes de usar, principalmente se ficaram no chão ou em áreas externas.</li>
-</ol>
-<h2>Por que só "dedetizar" não resolve</h2>
-<p>O escorpião é menos sensível aos inseticidas comuns e passa a maior parte do tempo escondido. Aplicar produto sem tratar os abrigos e os acessos tende a trazer pouco resultado. O controle eficiente combina inspeção, eliminação de abrigos, vedação, controle de baratas e, quando indicado, aplicação de produtos em pontos estratégicos por uma empresa especializada.</p>
-<h2>O que fazer em caso de picada</h2>
-<p>A picada de escorpião pode ser grave, especialmente em crianças, idosos e pessoas com problemas de saúde. Em caso de acidente:</p>
-<ul>
-<li><strong>Procure imediatamente o pronto-socorro ou serviço de saúde mais próximo.</strong></li>
-<li>Lave o local com água e sabão.</li>
-<li>Se possível e com segurança, leve o escorpião (ou uma foto) para identificação.</li>
-<li><strong>Não</strong> faça torniquete, <strong>não</strong> corte, fure ou sugue o local e <strong>não</strong> aplique substâncias caseiras.</li>
-</ul>
-<p>Animais de estimação também podem ser picados. Se o seu cão ou gato apresentar dor intensa, vômitos, salivação ou tremores, leve-o imediatamente ao médico-veterinário.</p>
-<h2>Quando chamar uma empresa especializada</h2>
-<p>Se você encontrou um escorpião dentro de casa, se a vizinhança relata aparições frequentes ou se há crianças pequenas no imóvel, vale agendar uma vistoria. A Elbatec faz o <a href="@/servicos/controle-de-escorpioes.html">controle de escorpiões em Cajamar e região</a> com manejo integrado: identificamos abrigos e acessos, controlamos as baratas e orientamos as melhorias necessárias no imóvel.</p>""",
+"slug": "como-montar-estoque-de-fantasias-para-o-carnaval", "data": "2026-11-09",
+"h1": "Como montar o estoque de fantasias para o Carnaval",
+"title": "Estoque de Fantasias para o Carnaval: Guia do Lojista",
+"desc": "Guia para lojistas montarem o estoque de fantasias para o Carnaval: quando comprar, como escolher modelos e grades, acessórios e reposição. Leia o guia.",
+"lead": "O Carnaval é a temporada mais importante para quem vende fantasias. Planejamento é o que separa a loja que vende tudo da que fica com estoque parado.",
+"resumo": "Quando comprar, quais modelos escolher, como definir a grade e por que os acessórios fazem diferença no Carnaval.",
+"img": "blog-estoque-carnaval.webp", "img_alt": "Prateleiras de loja abastecidas com fantasias de Carnaval coloridas",
+"categorias": ["fantasias-de-carnaval", "acessorios-para-fantasias", "fantasias-adultas"],
+"corpo": """<p>Para lojas de fantasias e de artigos de festa, o Carnaval concentra boa parte do faturamento do ano. Mas a janela de vendas é curta, e o cliente que não encontra o que procura vai para o concorrente. Por isso, montar o estoque com antecedência e com critério é a decisão mais importante da temporada.</p>
+<h2>1. Comece cedo</h2>
+<p>Fábricas e confecções também têm limite de produção, e a agenda fica disputada conforme a data se aproxima. Fechar o pedido principal com meses de antecedência garante os modelos mais procurados, cores e grades completas. Deixe uma parte do orçamento para reposição durante a temporada.</p>
+<h2>2. Use o histórico da sua loja</h2>
+<p>Antes de escolher os modelos, olhe o que vendeu nos últimos Carnavais: quais temas, quais tamanhos, qual proporção entre infantil e adulto e quais acessórios. Se você está começando, converse com o fornecedor sobre os modelos que costumam girar mais.</p>
+<h2>3. Equilibre clássicos e novidades</h2>
+<p>Alguns temas vendem todos os anos — marinheiros, piratas, havaianas, ciganas, animais, anos 80. Eles devem ser a base do estoque. As novidades atraem o cliente para a vitrine, mas representam mais risco; compre quantidades menores e reponha se venderem bem.</p>
+<h2>4. Capriche na grade de tamanhos</h2>
+<p>Ficar sem o tamanho que o cliente precisa é venda perdida. Distribua as quantidades conforme o perfil da sua clientela e confirme com o fornecedor a possibilidade de repor tamanhos específicos.</p>
+<h2>5. Não esqueça dos acessórios</h2>
+<p>Tiaras, chapéus, capas, saias tutu, leques e máscaras têm giro rápido e são a escolha de quem quer uma fantasia improvisada. Também ajudam a aumentar o valor de cada venda quando oferecidos junto com a fantasia completa.</p>
+<h2>6. Pense nos blocos e grupos</h2>
+<p>Blocos de rua, empresas e turmas de amigos costumam comprar várias peças iguais. Divulgue que sua loja atende pedidos em quantidade e tenha um fornecedor capaz de produzir lotes padronizados.</p>
+<h2>7. Exponha bem e divulgue cedo</h2>
+<p>Monte a vitrine temática com antecedência, fotografe os modelos e divulgue nas redes sociais e no WhatsApp da loja. O cliente começa a pesquisar semanas antes da festa.</p>
+<h2>8. Planeje a pós-temporada</h2>
+<p>Peças que sobraram podem ser aproveitadas em festas temáticas ao longo do ano, no Halloween ou em promoções. Escolher modelos versáteis reduz o risco de estoque parado.</p>
+<h2>Compre direto da fábrica</h2>
+<p>A Tango Fantasias fabrica <a href="@/fantasias/fantasias-de-carnaval.html">fantasias de Carnaval</a>, <a href="@/fantasias/fantasias-adultas.html">fantasias adultas</a>, infantis e <a href="@/fantasias/acessorios-para-fantasias.html">acessórios</a> no Brás, em São Paulo, e atende lojistas no <a href="@/atacado.html">atacado</a>. Fale com a gente para programar seu pedido da temporada.</p>""",
 },
 {
-"slug": "de-quanto-em-quanto-tempo-dedetizar", "data": "2026-11-09",
-"h1": "De quanto em quanto tempo dedetizar a casa ou a empresa?",
-"title": "De Quanto em Quanto Tempo Dedetizar? | Elbatec",
-"desc": "Descubra de quanto em quanto tempo dedetizar casas, apartamentos, condomínios, restaurantes e empresas, e quais fatores mudam essa frequência. Leia o guia.",
-"lead": "Não existe um prazo único para todos. A frequência ideal depende do tipo de imóvel, do histórico de pragas e do entorno.",
-"resumo": "A frequência ideal de dedetização varia conforme o imóvel, o histórico de pragas e o entorno. Entenda como definir a sua.",
-"img": "blog-frequencia-dedetizacao.webp", "img_alt": "Calendário e prancheta de inspeção representando o planejamento de dedetizações periódicas",
-"servicos": ["dedetizacao", "desratizacao", "limpeza-caixa-dagua"],
-"corpo": """<p>Uma das perguntas mais comuns que recebemos é: "de quanto em quanto tempo preciso dedetizar?". A resposta honesta é que <strong>depende</strong> — e desconfie de quem oferece um prazo fixo sem conhecer o imóvel. A frequência ideal é definida pelo risco de infestação, pelo tipo de uso do local e pelas exigências legais ou de clientes, no caso de empresas.</p>
-<h2>Fatores que influenciam a frequência</h2>
+"slug": "como-lavar-e-conservar-fantasias", "data": "2026-11-09",
+"h1": "Como lavar e conservar fantasias para usar de novo",
+"title": "Como Lavar e Conservar Fantasias | Tango Fantasias",
+"desc": "Saiba como lavar, secar e guardar fantasias com brilho, paetês, tule e aplicações para que durem mais. Dicas práticas para famílias, escolas e locadoras.",
+"lead": "Com alguns cuidados simples, a fantasia sobrevive a várias festas — e pode até passar de irmão para irmão.",
+"resumo": "Lavagem à mão, secagem à sombra e armazenamento correto: dicas para fantasias com brilho, tule e aplicações durarem mais.",
+"img": "blog-conservar-fantasias.webp", "img_alt": "Fantasia com tule e brilhos guardada em capa protetora no cabide",
+"categorias": ["fantasias-infantis", "fantasias-adultas", "acessorios-para-fantasias"],
+"corpo": """<p>Fantasias costumam ter tecidos delicados, brilhos, paetês, tule, aplicações coladas e acessórios rígidos. Lavar como uma roupa comum pode desbotar cores, soltar enfeites e deformar as peças. A boa notícia é que poucos cuidados fazem a fantasia durar muito mais.</p>
+<h2>Antes de tudo: leia a etiqueta</h2>
+<p>A etiqueta traz a composição do tecido e as instruções de conservação definidas para aquela peça. Ela é a principal referência. As dicas abaixo são gerais e valem para a maioria das fantasias.</p>
+<h2>Como lavar</h2>
 <ul>
-<li><strong>Tipo de imóvel e uso:</strong> uma cozinha industrial tem risco muito maior do que um escritório.</li>
-<li><strong>Histórico de pragas:</strong> imóveis com infestações recentes precisam de acompanhamento mais próximo.</li>
-<li><strong>Entorno:</strong> terrenos baldios, córregos, obras, feiras e restaurantes vizinhos aumentam a pressão de pragas.</li>
-<li><strong>Estrutura do imóvel:</strong> frestas, ralos sem proteção, forros e caixas de gordura mal conservadas favorecem a entrada e o abrigo.</li>
-<li><strong>Hábitos:</strong> armazenamento de alimentos, acúmulo de caixas de papelão e manejo do lixo fazem diferença.</li>
-<li><strong>Clima:</strong> no calor e nas chuvas, baratas, mosquitos, escorpiões e cupins ficam mais ativos.</li>
+<li><strong>Prefira lavar à mão</strong>, com água fria e sabão neutro ou sabão para roupas delicadas.</li>
+<li><strong>Não deixe de molho</strong> por muito tempo, principalmente peças com cores fortes ou aplicações coladas.</li>
+<li><strong>Não esfregue nem torça</strong> áreas com brilho, paetês, glitter e bordados.</li>
+<li><strong>Retire acessórios</strong> removíveis antes de lavar, como cintos, capas presas com velcro e enfeites.</li>
+<li><strong>Manchas pontuais</strong> podem ser limpas com um pano úmido, sem lavar a peça inteira.</li>
+<li>Se usar a máquina, coloque a fantasia do avesso, dentro de um saco de lavagem, no ciclo delicado.</li>
 </ul>
-<h2>Referências por tipo de imóvel</h2>
-<p>As referências abaixo são pontos de partida comuns no mercado. A frequência final deve ser definida após a vistoria.</p>
-<h3>Casas e apartamentos</h3>
-<p>Em residências sem histórico de problemas, muitas famílias optam por um tratamento preventivo uma ou duas vezes por ano, geralmente antes do verão. Casas com quintal, próximas a áreas verdes ou com histórico de baratas e escorpiões podem precisar de intervalos menores.</p>
-<h3>Condomínios</h3>
-<p>Áreas comuns — casas de lixo, garagens, poços de elevador, caixas de gordura e de esgoto — concentram a maior parte das pragas. É comum que condomínios mantenham um cronograma periódico definido em contrato, com tratamentos em intervalos regulares e atendimentos extras quando necessário. A dedetização das áreas comuns também protege as unidades.</p>
-<h3>Restaurantes, padarias e cozinhas</h3>
-<p>Estabelecimentos que manipulam alimentos precisam de controle contínuo e documentado, de acordo com as normas sanitárias aplicáveis. Na prática, isso costuma significar visitas frequentes e registros de cada atendimento, para apresentar à vigilância sanitária.</p>
-<h3>Empresas, indústrias e galpões logísticos</h3>
-<p>O controle é feito por meio de programas de manejo integrado de pragas, com monitoramento de porta-iscas, inspeções e aplicações conforme a necessidade. A frequência das visitas é definida pelo risco da operação e pelas exigências de auditorias de clientes. Em centros de distribuição, a movimentação constante de mercadorias e paletes exige atenção redobrada.</p>
-<h2>Outros serviços também têm periodicidade</h2>
+<h2>Como secar</h2>
+<p>Seque à sombra, em local ventilado, de preferência na horizontal ou em cabide, para não deformar. Evite secadora e sol forte, que desbotam cores e podem danificar tecidos sintéticos, colas e brilhos.</p>
+<h2>Passar ou não passar?</h2>
+<p>Muitos tecidos de fantasia são sintéticos e sensíveis ao calor. Se precisar desamassar, use o ferro em temperatura baixa, do avesso e com um pano por cima, sem passar sobre aplicações e brilhos. Vaporizar a peça pendurada costuma ser a opção mais segura.</p>
+<h2>Como guardar</h2>
 <ul>
-<li><strong>Limpeza de caixa d'água:</strong> a recomendação mais comum é a cada seis meses.</li>
-<li><strong>Caixa de gordura:</strong> em residências, a cada poucos meses; em cozinhas comerciais, com muito mais frequência.</li>
-<li><strong>Controle de roedores:</strong> em empresas, o monitoramento é contínuo, com inspeção periódica dos porta-iscas.</li>
+<li>Guarde a fantasia só depois de totalmente seca, para evitar mofo e cheiro.</li>
+<li>Use cabide e capa de tecido ou TNT; evite sacos plásticos fechados por longos períodos.</li>
+<li>Saias de tule e peças estruturadas ficam melhor penduradas ou em caixas sem peso por cima.</li>
+<li>Guarde acessórios rígidos, como coroas e asas, separados, para não amassar.</li>
+<li>Mantenha em local seco, longe da luz direta.</li>
 </ul>
-<h2>Sinais de que você não deve esperar a próxima data</h2>
-<p>Mesmo com um cronograma definido, chame a empresa antes se notar baratas durante o dia, fezes de roedores, trilhas de formigas persistentes, resíduos de cupim, escorpiões ou qualquer praga nova. Agir cedo é mais simples, mais rápido e normalmente mais barato do que tratar uma infestação estabelecida.</p>
-<h2>Como a Elbatec define a frequência</h2>
-<p>Na vistoria, avaliamos o imóvel, o histórico e o entorno e indicamos um calendário realista — sem excessos. Para residências, explicamos quando vale repetir o serviço; para empresas e condomínios, montamos um plano com cronograma e documentação. Conheça a <a href="@/servicos/dedetizacao.html">dedetização em Cajamar e região</a> e os <a href="@/empresas-e-condominios.html">contratos para empresas e condomínios</a>.</p>""",
+<h2>Dicas para escolas e locadoras</h2>
+<p>Para quem usa a mesma fantasia muitas vezes, vale identificar as peças por tamanho, revisar costuras e fechamentos depois de cada uso e fazer pequenos reparos antes de guardar. Isso evita surpresas na próxima apresentação ou locação.</p>
+<p>Quer fantasias feitas para durar? Conheça as <a href="@/fantasias/fantasias-infantis.html">fantasias infantis</a>, as <a href="@/fantasias/fantasias-adultas.html">fantasias adultas</a> e os <a href="@/fantasias/acessorios-para-fantasias.html">acessórios</a> da Tango Fantasias, fabricados no Brás, em São Paulo.</p>""",
 },
 ]

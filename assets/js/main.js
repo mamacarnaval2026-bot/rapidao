@@ -1,5 +1,5 @@
 /* =========================================================
-   Elbatec Controle de Pragas — main.js
+   Tango Fantasias — main.js
    JavaScript puro, sem dependências.
    ========================================================= */
 (function () {
@@ -9,10 +9,10 @@
      CONFIGURAÇÃO — PERSONALIZAR AQUI
      whatsapp: somente números, com 55 + DDD + número.
      IMPORTANTE: o número também aparece fixo nos links do HTML
-     (procure por 5511000000000 e substitua em todos os arquivos).
+     (procure por 5511992382902 e substitua em todos os arquivos).
      --------------------------------------------------------- */
   var CONFIG = {
-    whatsapp: '5511000000000', // PREENCHER: número do WhatsApp (ex.: 5511912345678)
+    whatsapp: '5511992382902', // WhatsApp da empresa (11) 99238-2902
     mensagemPadrao: 'Olá! Vim pelo site e gostaria de um orçamento.',
     usarFormspree: false,       // true = envia formulário por e-mail via Formspree
     formspreeId: 'SEU_ID_FORMSPREE' // PREENCHER: ex.: xyzabcd (https://formspree.io)
@@ -39,7 +39,7 @@
       }
     } catch (e) { /* silencioso */ }
   }
-  window.elbatecTrack = track;
+  window.tangoTrack = track;
 
   /* ---------- Links de WhatsApp ---------- */
   document.querySelectorAll('a.js-wa').forEach(function (a) {
@@ -107,7 +107,7 @@
   }
 
   /* ---------- Banner de cookies (LGPD) ---------- */
-  var COOKIE_KEY = 'elbatec_consent';
+  var COOKIE_KEY = 'tango_consent';
   function getConsent() { try { return localStorage.getItem(COOKIE_KEY); } catch (e) { return null; } }
   function setConsent(v) { try { localStorage.setItem(COOKIE_KEY, v); } catch (e) { /* modo privado */ } }
   function aplicarConsentimento(v) {
@@ -190,13 +190,13 @@
       }
 
       var tipo = form.getAttribute('data-form');
-      var linhas = [tipo === 'orcamento' ? '*Pedido de orçamento — site Elbatec*' : '*Contato pelo site Elbatec*', ''];
+      var linhas = [tipo === 'orcamento' ? '*Pedido de orçamento — site Tango Fantasias*' : '*Contato pelo site Tango Fantasias*', ''];
       campos.forEach(function (c) {
         if (!c.name || c.name === '_gotcha' || c.type === 'checkbox' || c.type === 'submit') return;
         var val = c.tagName === 'SELECT' ? (c.options[c.selectedIndex] || {}).text : c.value.trim();
         if (!val || (c.tagName === 'SELECT' && c.value === '')) return;
         var label = c.getAttribute('data-label') || c.name;
-        if (c.name === 'area') val += ' m²';
+        if (c.type === 'date' && /^\d{4}-\d{2}-\d{2}$/.test(val)) val = val.split('-').reverse().join('/');
         linhas.push('*' + label + ':* ' + val);
       });
       linhas.push('', 'Aceito a Política de Privacidade.');
@@ -221,7 +221,7 @@
           form.reset();
         }).catch(function () {
           status.className = 'form-status erro';
-          status.textContent = 'Não foi possível enviar. Tente pelo WhatsApp ou telefone (11) 3232-2206.';
+          status.textContent = 'Não foi possível enviar. Tente pelo WhatsApp ou telefone (11) 99238-2902.';
         });
         return;
       }
